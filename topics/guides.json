@@ -1,1 +1,23 @@
-{"elements":[{"type":"label","text":"Here are our current documents:"},{"text":"Trigonometry in Picotron","ref":"guides/trigonometry","type":"wiki_ref"}],"metadata":{"authors":["kravohi"],"page_title":"Guides","version":"0.4"}}
+{
+  "elements" : [
+    {
+      "type" : "label",
+      "text" : "Here are our current guides:"
+    },
+    {
+      "text" : "Trigonometry in Picotron",
+      "ref" : "guides/trigonometry",
+      "type" : "wiki_ref"
+    },
+    {
+      "text" : "Setting a Custom Font",
+      "ref" : "guides/Setting_a_font",
+      "type" : "wiki_ref"
+    }
+  ],
+  "metadata" : {
+    "authors" : ["kravohi", "aerger"],
+    "page_title" : "Guides",
+    "version" : "0.4"
+  }
+}
