@@ -2,16 +2,16 @@
 	"metadata" : {
 		"page_title" : "max()",
 		"version" : "0.2",
-		"authors" : ["kravohi", "thacuber2a03"]
+		"authors" : ["kravohi", "thacuber2a03", "aerger"]
 	},
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "Returns the largest of its arguments."
+			"text" : "Returns the larger of two\nnumeric values."
 		},
       {
 			"type" : "snippet",
-			"text" : "max(3,13,24,5,18)\n-- this returns 24"
+			"text" : "max(3,24)\n-- This returns 24."
 		},
 		{
 			"type" : "wiki_ref",
