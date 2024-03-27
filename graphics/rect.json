@@ -4,21 +4,22 @@
 		"version" : "0.2",
 		"authors" : [
 			"scrapSavage",
-			"Hessery"
+			"Hessery",
+			"aerger"
 		]
 	},
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "The rect function draws an empty rectangle."
+			"text" : "The rect function draws an empty rectangle.\nx0\n  Top left x coordinate of rectangle.\ny0\n  Top left y coordinate of rectangle.\nx1\n  Bottom right x coordinate of rectangle.\ny1\n  Bottom right y coordinate of rectangle\ncol\n  The color of the rectangle."
 		},
 		{
 			"type" : "snippet",
-			"text" : "--draws a red rectangle.\nrect(16,16,64,64,8)"
+			"text" : "rect(16,16,64,64,8)"
 		},
 		{
 			"type" : "label",
-			"text" : "x0\n  Top left x coordinate of rectangle.\ny0\n  Top left y coordinate of rectangle.\nx1\n  Bottom right x coordinate of rectangle.\ny1\n  Bottom right y coordinate of rectangle\ncol\n  The color of the rectangle."
+			"text" : "Draws a red rectangle from position (16,16)\nto position (64,64)."
 		}
 	]
 }
