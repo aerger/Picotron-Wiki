@@ -2,7 +2,7 @@
 	"metadata" : {
 		"page_title" : "mid()",
 		"version" : "0.2",
-		"authors" : ["thacuber2a03"]
+		"authors" : ["thacuber2a03", "aerger"]
 	},
 	"elements" : [
 		{
@@ -11,7 +11,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "Returns the middle of its arguments."
+			"text" : "Returns the middle value of its\n numeric arguments."
 		}
 	]
 }
