@@ -19,7 +19,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "This draws a line from the position (0, 0) to\nthe position (20, 10). The line is colored red.\n"
+			"text" : "Draws a red line from the position (0,0) to\nthe position (20,10)."
 		}
 	]
 }
