@@ -4,13 +4,14 @@
 		"version" : "0.2",
 		"authors" : [
 			"kravohi",
-			"Hessery"
+			"Hessery",
+			"aerger"
 		]
 	},
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "The line() function draws a colored line from\none point to another."
+			"text" : "line(x1,y1,x2,y2,c)\nThe line() function draws a colored line from\none point to another.\nx1,y1\n  are positions of point one.\nx2,y2\n  are positions of point two.\nc\n  is the color of the line."
 		},
 		{
 			"type" : "snippet",
@@ -18,7 +19,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "This draws a line from the position (0, 0) to\nthe position (20, 10). The line is colored red.\n\nx1\n  x position of point one.\ny1\n  y position of point one.\nx2\n  x position of point two.\ny2\n  y poisition of point two.\nc\n  Colour of the line."
+			"text" : "This draws a line from the position (0, 0) to\nthe position (20, 10). The line is colored red.\n"
 		}
 	]
 }
