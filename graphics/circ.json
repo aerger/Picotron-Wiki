@@ -2,20 +2,16 @@
 	"metadata" : {
 		"page_title" : "circ()",
 		"version" : "0.2",
-		"authors" : [ "thacuber2a03" ]
+		"authors" : [ "thacuber2a03", "aerger" ]
 	},
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "The circ function draws an empty circle."
+			"text" : "circ(x,y,c)\nThe circ function draws an empty circle.\nx\n  X coordinate of the circle center.\ny\n  Y coordinate of the circle center.\nr\n  Radius of circle.\nc\n  The color of the circle."
 		},
 		{
 			"type" : "snippet",
-			"text" : "--draws a red circle.\ncirc(16,16,10,8)"
-		},
-		{
-			"type" : "label",
-			"text" : "x\n  X coordinate of circle.\ny\n  Y coordinate of circle.\nr\n  Radius of circle.\ncol\n  The color of the circle."
+			"text" : "circ(16,16,10,8)\n Draws a red circle with a radius of\n10 at position (16,16)."
 		}
 	]
 }
