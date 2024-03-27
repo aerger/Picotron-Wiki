@@ -2,16 +2,16 @@
 	"metadata" : {
 		"page_title" : "min()",
 		"version" : "0.2",
-		"authors" : ["kravohi", "thacuber2a03"]
+		"authors" : ["kravohi", "thacuber2a03", "aerger"]
 	},
 	"elements" : [
 		{
 			"type" : "label",
 			"text" : "Returns the smallest of its arguments."
 		},
-      {
+		{
 			"type" : "snippet",
-			"text" : "max(3,13,24,5,18)\n-- this returns 3"
+			"text" : "max(3,13,24,5,18)\n-- This returns 3."
 		},
 		{
 			"type" : "wiki_ref",
